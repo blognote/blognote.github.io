@@ -1,15 +1,16 @@
 # Site settings
 title: Blognote
 header-img: img/home-bg.jpg
-email: metotas@yourdomain.com
+email: metotas@yandex.ru
 copyright_name: 
 description: "Blognote!"
 baseurl: ""
 url: "http://blognote.github.com"
+# url: "http://192.168.1.48:4000"
 twitter_username: SBootstrap
 github_username:  blognote
 #facebook_username:  IronSummitMedia
-email_username:  metotas@yourdomain.com
+email_username:  metotas@yandex.ru
 
 # Build settings
 markdown: kramdown
